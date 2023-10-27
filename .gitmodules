@@ -1,3 +1,7 @@
 [submodule "lib"]
 	path = lib
-	url = git@github.com:matthiasmullie/minify.git
+	url = https://github.com/matthiasmullie/minify.git
+
+[submodule "dep"]
+	path = dep
+	url = https://github.com/matthiasmullie/path-converter.git
